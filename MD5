@@ -1,0 +1,16 @@
+ac48c9cb7ee7383c85c98a29d25edfa2 *DESCRIPTION
+11ff44a7434010c7b023a081d5ad3201 *NAMESPACE
+abadb12c321424b269a9a2f77750168b *R/garchur_main.R
+5b988807379451e9fc4f87313113d834 *R/qadf_main.R
+192f184e78d6958d9f6ae5571ff6ddf0 *R/qadf_methods.R
+81b986dbd3504c1b50381578d517f99a *R/urstat_main.R
+ba582b375e5afde780e991c9b7711c6a *build/partial.rdb
+ba998301afbecf6a275cb44217a808f2 *man/garchur.Rd
+b0f8a820d4b0c1af833e5acce354ff06 *man/print.garchur.Rd
+3f0a6d3f70ee0997591ca59e079a5b2e *man/print.qadf.Rd
+7092855323841cc33db32a6e33081959 *man/qadf.Rd
+aff7f2d8f530d490627759af9af7a4ba *man/urstat.Rd
+5b127d9cebe149139e1626a44b5e1875 *tests/testthat.R
+feb19dfe88522cab1eecf8b43e579f30 *tests/testthat/test-garchur.R
+a1206d111d9c30fc1e724cb6239fc8be *tests/testthat/test-qadf.R
+743460890c2800613a45bc855920a84f *tests/testthat/test-urstat.R
