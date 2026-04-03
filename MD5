@@ -1,9 +1,9 @@
-ac48c9cb7ee7383c85c98a29d25edfa2 *DESCRIPTION
-11ff44a7434010c7b023a081d5ad3201 *NAMESPACE
-abadb12c321424b269a9a2f77750168b *R/garchur_main.R
-5b988807379451e9fc4f87313113d834 *R/qadf_main.R
-192f184e78d6958d9f6ae5571ff6ddf0 *R/qadf_methods.R
-81b986dbd3504c1b50381578d517f99a *R/urstat_main.R
+68d87ca176efeaeaec1b294d24526d0e *DESCRIPTION
+d25ea0e06e37297a3d9ef89242cd10de *NAMESPACE
+9fad71a727a135659350436ef9f7a1b9 *R/garchur_main.R
+f70fb740f1939c7dc060cbbb7bf1ea59 *R/qadf_main.R
+aa8acbe5569e2a1a22d1f8394b34be7e *R/qadf_methods.R
+f89813c396aab08b9a42d40d996872c1 *R/urstat_main.R
 ba582b375e5afde780e991c9b7711c6a *build/partial.rdb
 ba998301afbecf6a275cb44217a808f2 *man/garchur.Rd
 b0f8a820d4b0c1af833e5acce354ff06 *man/print.garchur.Rd
